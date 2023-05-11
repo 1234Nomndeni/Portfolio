@@ -20,15 +20,11 @@
         <div class="home-desc">
             <img width=100 marginleft="0" src="./Nom nom.html.jpg" alt="Nomndeni">
             <div class="home-content">
-              <h1 class="naming"> Hello <img width="30" src="world.html.html" alt="Earth">, my name is<span class="name-style"> Nomndeni Nkosi</h1><br>
+              <h1 class="naming"> Hello <img width="30" src="world.html.html">, my name is<span class="name-style"> Nomndeni Nkosi><br>
                 <p class="home-content"> Welcome to my website, which is intended to share my educational and programming adventures. To begin, Nomndeni is a nature conservationist by profession, having graduated from the University of Mpumalanga and Nelson Mandela University.I am currently doing my Bachelor of Science Honours in Environmental Management with the University of South Africa. I'm getting into programming to learn how to use technology to solve and address environmental problems. The ultimate goal is to create environmental websites to raise awareness and create website applications to monitor and protect our biodiversity.`</p>
                 <a class= "homee" href="Contact me.html">
                     <button>Contact me</button>
             </a>   
-        </div>
-    </div>
-    </section>
-</body>
-</html>
+    
    
 
