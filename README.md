@@ -8,7 +8,8 @@
 </head>
 <body>
     <nav class="nav-bar">
-        <h1><Nomndeni Nkosi></h1>
+        <Nomndeni Nkosi>
+            
         <div class="nav-links">
             <a href="">About</a>
             <a href="">Home</a>
