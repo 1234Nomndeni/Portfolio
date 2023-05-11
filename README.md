@@ -8,8 +8,7 @@
 </head>
 <body>
     <nav class="nav-bar">
-        <h1>< Nomndeni Nkosi/></h1>
-        
+        <h1><Nomndeni Nkosi></h1>
         <div class="nav-links">
             <a href="">About</a>
             <a href="">Home</a>
@@ -27,5 +26,9 @@
                     <button>Contact me</button>
             </a>   
         </div>
+    </div>
+    </section>
+</body>
+</html>
    
 
